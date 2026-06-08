@@ -18,7 +18,7 @@ public class AllureUtils {
     static String browser = PropertiesUtils.getPropertyValue("browserType");
     static String baseUrl = PropertiesUtils.getPropertyValue("baseURI");
     static String build = "1.0.0";
-    static String executedBy = "Ahmed Maged";
+    static String executedBy = "Menna Adel";
 
     private AllureUtils() {
         super();
